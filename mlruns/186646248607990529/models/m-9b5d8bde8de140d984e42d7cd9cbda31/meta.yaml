@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/FREE/Desktop/TP/mlruns/186646248607990529/models/m-9b5d8bde8de140d984e42d7cd9cbda31/artifacts
+creation_timestamp: 1760880134645
+experiment_id: '186646248607990529'
+last_updated_timestamp: 1760880220399
+model_id: m-9b5d8bde8de140d984e42d7cd9cbda31
+model_type: null
+name: model
+source_run_id: ad81a0a9ff224ecda0f0493f4609a934
+status: 2
+status_message: null
